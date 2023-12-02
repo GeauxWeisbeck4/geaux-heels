@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://homelesshacker4-s-workspace-gl0csn.us-east-1.xata.sh/db/geaux-heels",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
